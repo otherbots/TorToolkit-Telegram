@@ -8,7 +8,7 @@ except:
         API_HASH = "aaea06c47290c6e551d851d4844469e6"
         API_ID = "2280058"
         BOT_TOKEN = "1520379734:AAHcqBrDGy_MeCrrCyrry5s0tiXkN04A9go"
-        BASE_URL_OF_BOT = "http://torrentRobot.zeet.co"
+        BASE_URL_OF_BOT = "http://torrentRobot.zeet.app"
         # ALLOWED USERS [ids of user or supergroup] seperate by commas
         ALD_USR = [1147526472]
         
