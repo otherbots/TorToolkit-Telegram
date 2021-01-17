@@ -1,4 +1,3 @@
-## Work In Progress ..☠️
 # Easy Deploy 
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
