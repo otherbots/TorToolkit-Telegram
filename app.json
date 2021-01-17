@@ -31,7 +31,8 @@
     },
     "DB_URI": {
       "description": "Your Database Url , Fill details Like This 👇dbname=tortk user=postgres password=your-pass host=127.0.0.1 port=5432",
-      "Value": ""
+      "Value": "",
+      "required": false
     }
 },
   "stack": "container"
