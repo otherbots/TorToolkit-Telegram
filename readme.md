@@ -1,16 +1,17 @@
 # TorToolkit Telegram
 So basically Tortoolkit is aimed to be most versatile torrent leecher and Youtube-DL bot for telegram. This bot is highly customizeable and to customize this bot you dont need to restart the bot everytime. 
 The bot gets started with minimum variables and others can be set as and when needed using the /settings
+# Easy Deploy 
+Change Your Configs. Before Deploy Here  
+Tortoolkit > Consts > ExecVarsSample.py
 
-## Working Demo Group:- [Group Link](https://t.me/TorToolKit) 
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
 
-## As This is a first release of this project the installation is a bit lengthy but takes less than 10 mins.
-## In subsequent releases i will try to make one click install 
-## For Heroku users New repo will come soon (This repo will not work on heroku)
 
 ## Installing
-### [Demo video for direct clone and run](https://youtu.be/HYjG4-VfxXs)
-### Direct Clone and Run
+[Demo video for direct clone and run](https://youtu.be/HYjG4-VfxXs)
+Direct Clone and Run
+
 Run the following commands. (Following commands can be used to setup the vps from scratch)
    
     git clone https://github.com/yash-dk/TorToolkit-Telegram.git
@@ -117,4 +118,4 @@ Rest Variables are not to changes
     purge - Delete all torrents ⚠️ Admin Only
     getlogs - Get the robot logs ⚠️ Admin Only
 
-# REST README WILL BE COMPLETED SHORTLY
+
