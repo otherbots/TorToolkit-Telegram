@@ -1,10 +1,10 @@
 
 # Easy Deploy 
-##Must change Your Configs. Before Deploy Here  
-Tortoolkit > Consts > ExecVarsSample.py
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
 
+## Must change Your Configs. Before Deploy Here  
+Tortoolkit > Consts > ExecVarsSample.py
 
 ## Installing
 [Demo video for direct clone and run](https://youtu.be/HYjG4-VfxXs)
