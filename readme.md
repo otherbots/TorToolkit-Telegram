@@ -3,7 +3,7 @@
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
 
 ## Why You FoRking This Repo ...😣 
- ### please Don't Do ....😐😑
+# please ForK Original Repo 
 
 ## The LegaCy Way 
 
