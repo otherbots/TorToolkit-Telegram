@@ -11,7 +11,7 @@
 "env": {
     "BASE_URL_OF_BOT": {
       "description": "your Heroku app Url like :- https://yourappname.herokuapp.com",
-      "value": "ANYTHING"
+      "value": ""
     },
     "BOT_TOKEN": {
       "description": "Your bot token, as a string.",
@@ -30,8 +30,8 @@
       "value": "[]"
     },
     "DB_URI": {
-      "description": "Your Database Url , Fill details As Required",
-      "Value": "dbname=tortk user=postgres password=your-pass host=127.0.0.1 port=5432"
+      "description": "Your Database Url , Fill details Like This 👉dbname=tortk user=postgres password=your-pass host=127.0.0.1 port=5432",
+      "Value": ""
     }
 },
   "stack": "container"
