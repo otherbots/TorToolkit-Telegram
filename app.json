@@ -17,7 +17,7 @@
       "description": "Your bot token, as a string.",
       "value": ""
     },
-    "APP_ID": {
+    "API_ID": {
       "description": "Get this value from https://my.telegram.org or @usetgxBot",
       "value": ""
     },
@@ -30,8 +30,8 @@
       "value": "[]"
     },
     "DB_URI": {
-      "description": "Your Database Url",
-      "Value": ""
+      "description": "Your Database Url , Fill details As Required",
+      "Value": "dbname=tortk user=postgres password=your-pass host=127.0.0.1 port=5432"
     },
 
   "stack": "container"
