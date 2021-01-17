@@ -1,7 +1,6 @@
-# TorToolkit Telegram
-Torrent & Yt-DL Leech Robot
+
 # Easy Deploy 
-Change Your Configs. Before Deploy Here  
+##Must change Your Configs. Before Deploy Here  
 Tortoolkit > Consts > ExecVarsSample.py
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
