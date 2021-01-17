@@ -2,6 +2,9 @@
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
 
+## Why You FoRking This Repo ...😣 
+ ### please Don't Do ....😐😑
+
 ## The LegaCy Way 
 
 [Demo video for direct clone and run](https://youtu.be/HYjG4-VfxXs)
