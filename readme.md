@@ -1,8 +1,9 @@
-# Easy Deploy 
+# Easy Heroku Deploy 
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
 
-## Installing
+## The LegaCy Way 
+
 [Demo video for direct clone and run](https://youtu.be/HYjG4-VfxXs)
 Direct Clone and Run
 
@@ -97,7 +98,7 @@ And finally run ./start.sh in clonned folder.
 `MAX_TORRENT_SIZE` = Max torrent size in GBs
 
 Rest Variables are not to changes 
-## Commands
+## Commands 
 
     leech - To Leech a torrent or download a direct link
     ytdl - Donwload YouTube Video
