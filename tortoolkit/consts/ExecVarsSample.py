@@ -6,7 +6,7 @@ except:
         # Set true if its VPS [currently not fully working]
         IS_VPS = False
         API_HASH = "aaea06c47290c6e551d851d4844469e6"
-        API_ID = "2280058"
+        API_ID = ""
         BOT_TOKEN = "1520379734:AAHcqBrDGy_MeCrrCyrry5s0tiXkN04A9go"
         BASE_URL_OF_BOT = "http://thetorrentRobot.herokuapp.com"
         # ALLOWED USERS [ids of user or supergroup] seperate by commas
