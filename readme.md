@@ -1,6 +1,5 @@
 # TorToolkit Telegram
-So basically Tortoolkit is aimed to be most versatile torrent leecher and Youtube-DL bot for telegram. This bot is highly customizeable and to customize this bot you dont need to restart the bot everytime. 
-The bot gets started with minimum variables and others can be set as and when needed using the /settings
+Torrent & Yt-DL Leech Robot
 # Easy Deploy 
 Change Your Configs. Before Deploy Here  
 Tortoolkit > Consts > ExecVarsSample.py
