@@ -8,7 +8,31 @@
   "success_url": "https://github.com/bhardwajjEE/TorToolkit-Telegram",
   "website": "https://github.com/bhardwajjEE/TorToolkit-Telegram",
   
-
+"env": {
+    "BASE_URL_OF_BOT": {
+      "description": "your Heroku app Url like :- https://yourappname.herokuapp.com",
+      "value": "ANYTHING"
+    },
+    "BOT_TOKEN": {
+      "description": "Your bot token, as a string.",
+      "value": ""
+    },
+    "APP_ID": {
+      "description": "Get this value from https://my.telegram.org or @usetgxBot",
+      "value": ""
+    },
+    "API_HASH": {
+      "description": "Get this value from https://my.telegram.org or @usetgxbot",
+      "value": ""
+    },
+    "ALD_USR": {
+      "description": "ALLOWED USERS [ids of user or supergroup] seperate by commas",
+      "value": "[]"
+    },
+    "DB_URI": {
+      "description": "Your Database Url",
+      "Value": ""
+    },
 
   "stack": "container"
 }
