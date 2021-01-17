@@ -5,10 +5,10 @@ except:
         # TODO optimize for vps use fully - currently only heroku is focused
         # Set true if its VPS [currently not fully working]
         IS_VPS = False
-        API_HASH = "aaea06c47290c6e551d851d4844469e6"
+        API_HASH = ""
         API_ID = ""
-        BOT_TOKEN = "1520379734:AAHcqBrDGy_MeCrrCyrry5s0tiXkN04A9go"
-        BASE_URL_OF_BOT = "http://thetorrentRobot.herokuapp.com"
+        BOT_TOKEN = ""
+        BASE_URL_OF_BOT = ""
         # ALLOWED USERS [ids of user or supergroup] seperate by commas
         ALD_USR = [1147526472]
         
@@ -28,7 +28,7 @@ except:
         REMAINING_STR = "⚪"
 
         # DB URI for access
-        DB_URI = "postgres://abdzbgwltfziwy:016aea57b883362ef1305b5d340f2ea83dcdf4e958e71f5cedbb020a72b5d81f@ec2-54-157-234-29.compute-1.amazonaws.com:5432/d8j8aptt91frmi"
+        DB_URI = ""
         
         # The base direcory to which the files will be upload if using RCLONE
         RCLONE_BASE_DIR = "/"
