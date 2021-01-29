@@ -5,9 +5,9 @@
     "telegram","bot","torrent","leech"
   ],
   "stack": "container",
-  "repository": "https://github.com/otherbots/TorToolkit-Telegram",
-  "success_url": "https://github.com/otherbots/TorToolkit-Telegram",
-  "website": "https://github.com/otherbots/TorToolkit-Telegram",
+  "repository": "https://github.com/bhardwajjEE/TorToolkit-Telegram",
+  "success_url": "https://github.com/bhardwajjEE/TorToolkit-Telegram",
+  "website": "https://github.com/bhardwajjEE/TorToolkit-Telegram",
   
 "env": {
     "BASE_URL_OF_BOT": {
@@ -27,11 +27,11 @@
       "value": ""
     },
     "ALD_USR": {
-      "description": "ALLOWED USERS [ids of user or supergroup] seperate by commas",
+      "description": "ALLOWED USERS [ids of user or supergroup] seperate by Commas",
       "value": "[]"
     },
     "DB_URI": {
-      "description": "Your Database Url , Fill details Like This 👇dbname=tortk user=postgres password=your-pass host=127.0.0.1 port=5432",
+      "description": "Your Database Url , do skip till deploy then Add Value of DATABASE_URL",
       "Value": "",
       "required": false
     }
