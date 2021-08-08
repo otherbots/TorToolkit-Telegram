@@ -24,7 +24,7 @@ requests==2.24.0
 rsa==4.7
 six==1.15.0
 Telethon==1.17.0
-TgCrypto==1.2.1
+TgCrypto
 torrentool==1.1.0
 urllib3==1.26.5
 yarl==1.5.1
