@@ -1,3 +1,4 @@
+import os
 try:
     from .ExecVars import ExecVars
 except:
@@ -28,7 +29,7 @@ except:
         REMAINING_STR = "⚪"
 
         # DB URI for access
-        DB_URI = ""
+        DB_URI = os.environ.get("DATABASE_URL", "")
         
         # The base direcory to which the files will be upload if using RCLONE
         RCLONE_BASE_DIR = "/"
