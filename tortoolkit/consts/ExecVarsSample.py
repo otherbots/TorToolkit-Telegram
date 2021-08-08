@@ -10,7 +10,7 @@ except:
         BOT_TOKEN = ""
         BASE_URL_OF_BOT = ""
         # ALLOWED USERS [ids of user or supergroup] seperate by commas
-        ALD_USR = [1147526472]
+        ALD_USR = [-1001195745797,1880143084]
         
         # Time to wait before edit message
         EDIT_SLEEP_SECS = 40
