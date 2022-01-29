@@ -1,3 +1,4 @@
+import os
 try:
     from .ExecVars import ExecVars
 except:
@@ -10,7 +11,7 @@ except:
         BOT_TOKEN = ""
         BASE_URL_OF_BOT = ""
         # ALLOWED USERS [ids of user or supergroup] seperate by commas
-        ALD_USR = [1147526472]
+        ALD_USR = [-1001195745797,1880143084]
         
         # Time to wait before edit message
         EDIT_SLEEP_SECS = 40
@@ -28,7 +29,7 @@ except:
         REMAINING_STR = "⚪"
 
         # DB URI for access
-        DB_URI = ""
+        DB_URI = os.environ.get("DATABASE_URL", "")
         
         # The base direcory to which the files will be upload if using RCLONE
         RCLONE_BASE_DIR = "/"
